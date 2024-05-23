@@ -1,5 +1,4 @@
-# virtual environment
+# package directory
 .venv
-
-# notebook checkpoint
-.ipynb_checkpoints
+# logging files
+*.log
