@@ -1,0 +1,5 @@
+# virtual environment
+.venv
+
+# notebook checkpoint
+.ipynb_checkpoints
