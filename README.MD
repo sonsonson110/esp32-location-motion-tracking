@@ -30,8 +30,9 @@ The model is deployed on Cloud Function, triggered by updates in the Realtime Da
 |  3V3  |     VCC    |
 |  GND  |     GND    |
 
-# Demo video
-![demo video](readme-sauce/demo-video.mp4)
+# [Demo video](/readme-sauce/demo-video.mp4)
+<video src="https://github.com/sonsonson110/esp32-location-motion-tracking/raw/main/readme-sauce/demo-video.mp4" width="100%"></video>
+
 
 ## Development Environment
 

@@ -2,3 +2,4 @@
 .venv
 # logging files
 *.log
+.ipynb_checkpoints
