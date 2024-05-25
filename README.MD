@@ -13,6 +13,26 @@ The model is built using Python and the PyCaret library. More detail at [./nhung
 
 The model is deployed on Cloud Function, triggered by updates in the Realtime Database. More detail at [./rtdb-trigger-func](rtdb-trigger-func)
 
+## Development board interface
+![my development board](readme-sauce/dev-board.jpg)
+### Connection specifications
+| ESP32 | MPU-6050 |
+|:-----:|:--------:|
+|  D22  |    SCL   |
+|  D21  |    SDA   |
+|  3V3  |    VCC   |
+|  GND  |    GND   |
+
+| ESP32 | NEO 6m GPS |
+|:-----:|:----------:|
+|  RX2  |     TX     |
+|  TX2  |     RX     |
+|  3V3  |     VCC    |
+|  GND  |     GND    |
+
+# Demo video
+![demo video](readme-sauce/demo-video.mp4)
+
 ## Development Environment
 
 - **Operating System**: Ubuntu 22.04.4 LTS
